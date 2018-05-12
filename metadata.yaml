@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '9135'
     url: http://www.gutenberg.org/2009/agents/9135
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41012#The-Wonderful-Story-of-Washingtonand-the-Meaning-of-His-Life-for-the-Youth-and-Patriotism-of-_
 gutenberg_issued: '2012-10-10'
 gutenberg_type: Text
 identifiers:
