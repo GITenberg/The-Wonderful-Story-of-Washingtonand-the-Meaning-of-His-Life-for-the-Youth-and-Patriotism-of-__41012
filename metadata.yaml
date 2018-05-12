@@ -1,0 +1,34 @@
+_repo: The-Wonderful-Story-of-Washingtonand-the-Meaning-of-His-Life-for-the-Youth-and-Patriotism-of-__41012
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41012-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stevens, C. M. (Charles McClellan)
+    aliases:
+    - Stevans, Charles McClellan
+    - Quondam
+    - Stevans, C. M. (Charles McClellan)
+    - Stevens, Charles M.
+    - Stevens, Charles McClellan
+    birthdate: 1861
+    gutenberg_agent_id: '9135'
+    url: http://www.gutenberg.org/2009/agents/9135
+description: ''
+gutenberg_issued: '2012-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41012'
+  lccn: '17028893'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington, George, 1732-1799 -- Juvenile literature'
+- !lcc 'E300'
+title: 'The Wonderful Story of Washington
+
+  and the Meaning of His Life for the Youth and Patriotism of America'
+url: http://www.gutenberg.org/ebooks/41012
